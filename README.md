@@ -3,6 +3,9 @@
 Disclaimer:
 
 
-List of Tech
+- HelloNext
+
+- Sentry
 
 - Canva
+
