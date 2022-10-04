@@ -1,7 +1,6 @@
 # Personal Favorite Tech in 2022
 
-Disclaimer:
-
+- Miro
 
 - HelloNext
 
@@ -9,3 +8,6 @@ Disclaimer:
 
 - Canva
 
+- LucidChart
+
+- 
