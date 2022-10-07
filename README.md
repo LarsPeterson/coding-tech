@@ -4,6 +4,7 @@
 
 - Lodash (https://lodash.com)
 - RxJS (https://rxjs.dev)
+- Razzle (Razzlejs.org)
 
 ### Tools for Diagrams and Planning
 
