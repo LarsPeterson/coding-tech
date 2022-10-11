@@ -1,10 +1,11 @@
 # Personal Favorite Tech in 2022
 
+### Tools for .NET
+https://duendesoftware.com/services
+
 ### Tools for Java
 
 - https://spring.io/
-
-
 
 ### Tools for JavaScript
 
