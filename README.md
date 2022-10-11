@@ -8,7 +8,7 @@
 
 ### Tools for JavaScript
 
-- Lodash (https://lodash.com)
+- [Lodash](https://lodash.com) is the better version of [UnderscoreJS](https://underscorejs.org)
 - RxJS (https://rxjs.dev)
 - Razzle (Razzlejs.org)
 
