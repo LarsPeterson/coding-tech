@@ -11,7 +11,7 @@
 - [Lodash](https://lodash.com) is the better version of [UnderscoreJS](https://underscorejs.org)
 - RxJS (https://rxjs.dev)
 - Razzle (Razzlejs.org)
-
+- [ChakraCore](https://github.com/chakra-core/ChakraCore) is a JavaScript engine with a C API you can use to add support for JavaScript to any C project.
 ### Tools for Diagrams and Planning
 
 - Miro
