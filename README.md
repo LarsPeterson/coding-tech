@@ -1,7 +1,18 @@
 # Personal Favorite Tech in 2022
 
 ### Tools for .NET
-https://duendesoftware.com/services
+
+- DOTNET Web APIs
+  - Part 1: [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/dotnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/)
+  - Part 2: [Open-source HTTP API packages and tools](https://devblogs.microsoft.com/dotnet/open-source-http-api-packages-and-tools/)
+  - Part 3: [Generating HTTP API clients using Visual Studio Connected Services](https://devblogs.microsoft.com/dotnet/generating-http-api-clients-using-visual-studio-connected-services/)
+  - Part 4: [App Building with Azure API Management, Functions, Power Apps, and Logic Apps](https://devblogs.microsoft.com/dotnet/app-building-with-azure-api-management-functions-power-apps-and-logic-apps/)
+
+- DOTNET References
+  - [SPA](https://learn.microsoft.com/en-us/aspnet/core/client-side/spa-services?source=recommendations&view=aspnetcore-6.0)
+  - [Worker Services](https://learn.microsoft.com/en-us/dotnet/core/extensions/workers)
+  - [WCF Web Service](https://learn.microsoft.com/en-us/dotnet/core/additional-tools/wcf-web-service-reference-guide)
+  
 
 ### Tools for Java
 
