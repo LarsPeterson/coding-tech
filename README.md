@@ -24,6 +24,11 @@
 - RxJS (https://rxjs.dev)
 - Razzle (Razzlejs.org)
 - [ChakraCore](https://github.com/chakra-core/ChakraCore) is a JavaScript engine with a C API you can use to add support for JavaScript to any C project.
+
+### Tools for React
+
+- https://www.w3schools.com/react/react_useeffect.asp
+
 ### Tools for Diagrams and Planning
 
 - Miro
