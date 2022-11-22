@@ -33,6 +33,9 @@
 
 - [Mixamo](https://www.mixamo.com/)
 
+### Tools for Ruby
+- [Best Way to Install Ruby on Mac](https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma)
+
 ### Tools for Diagrams and Planning
 
 - Miro
