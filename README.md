@@ -1,4 +1,16 @@
-# Personal Favorite Tech in 2022
+# Coding Tech 2032
+
+### Tech Trends
+
+- Edge Computing
+
+- ChatGPT
+
+- Containers
+
+- Microfrontends
+
+- Full Stack Frameworks
 
 ### Tools for .NET
 
