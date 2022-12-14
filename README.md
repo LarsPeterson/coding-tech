@@ -1,5 +1,21 @@
 # Coding Tech 2023
 
+### Top Paying Digital Skills
+
+- Search Engine Optimization
+
+- Digital Marketing
+
+- Blockchain
+
+- Software Engineering
+
+- Video Editing
+
+- Content Management
+
+- Copywriting
+
 ### Tech Trends
 
 - Edge Computing
