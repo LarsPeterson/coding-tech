@@ -12,6 +12,12 @@
 
 - Full Stack Frameworks
 
+### Tools for Azure
+
+- [Securing Requests in FrontDoor](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-security-headers)
+- [Logging and Diagnostics](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings?tabs=portal#create-in-azure-portal)
+
+
 ### Tools for .NET
 
 - DOTNET Web APIs
