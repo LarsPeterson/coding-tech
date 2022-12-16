@@ -1,21 +1,5 @@
 # Coding Tech 2023
 
-### Top Paying Digital Skills
-
-- Search Engine Optimization
-
-- Digital Marketing
-
-- Blockchain
-
-- Software Engineering
-
-- Video Editing
-
-- Content Management
-
-- Copywriting
-
 ### Tech Trends
 
 - Edge Computing
@@ -58,6 +42,8 @@
 - RxJS (https://rxjs.dev)
 - Razzle (Razzlejs.org)
 - [ChakraCore](https://github.com/chakra-core/ChakraCore) is a JavaScript engine with a C API you can use to add support for JavaScript to any C project.
+- [ThreeJS](https://threejs.org/)
+- [D3](https://d3js.org/)
 
 ### Tools for React
 
