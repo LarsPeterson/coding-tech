@@ -38,16 +38,23 @@
 
 ### Tools for JavaScript
 
-- [Lodash](https://lodash.com) is the better version of [UnderscoreJS](https://underscorejs.org)
-- RxJS (https://rxjs.dev)
-- Razzle (Razzlejs.org)
-- [ChakraCore](https://github.com/chakra-core/ChakraCore) is a JavaScript engine with a C API you can use to add support for JavaScript to any C project.
-- [ThreeJS](https://threejs.org/)
-- [D3](https://d3js.org/)
+#### Frameworks
 
-### Tools for React
+- [RazzleJS](https://razzlejs.org) is a **framework** that abstracts all the complex configuration needed for SSR into a single dependency. _(free)_
+- [Tauri](https://tauri.app) is a **framework** with a Rust backend for building tiny, blazingly fast binaries for all major desktop platforms. _(free)_
+- [Angular](https://angular.io) is a **framework** for building single-page client applications with TypeScript. _(free)_
 
-- https://www.w3schools.com/react/react_useeffect.asp
+#### Libraries
+
+- [Wijmo](https://www.grapecity.com/wijmo) is a massive frontend **library** that contains everything you need. _($549/developer/year)_
+- [Lodash](https://lodash.com) is a utility **library** and is the better version of [UnderscoreJS](https://underscorejs.org). _(both are free)_
+- [RxJS](https://rxjs.dev) is a reactive **library** using observables that makes it easier to compose asynchronous code. _(free)_
+- [React](https://reactjs.org) is a *library* for building component-based interactive UIs. _(free)_
+
+#### Data Visualization
+
+- [D3.js](https://d3js.org) is a **library** for producing dynamic, interactive data visualizations. _(free)_
+- [ThreeJS](https://threejs.org) is a **WebGL engine** that can run GPU-powered games and other graphics-powered apps straight from the browser. _(free)_
 
 ### Tools for Unity
 
@@ -82,6 +89,11 @@
 - LottieFiles
 (https://lottiefiles.com)
 
+### Tools for C
+
+- [ChakraCore](https://github.com/chakra-core/ChakraCore) is a JavaScript engine with a C API you can use to add support for JavaScript to any C project.
+
+### Unorganized
 
 - Microsoft Power BI
 
