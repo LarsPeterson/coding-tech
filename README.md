@@ -12,6 +12,35 @@
 
 - Full Stack Frameworks
 
+### Tools for JavaScript
+
+#### Frameworks
+
+- [RazzleJS](https://razzlejs.org) is a **framework** that abstracts all the complex configuration needed for SSR into a single dependency. _(free)_
+- [Tauri](https://tauri.app) is a **framework** with a Rust backend for building tiny, blazingly fast binaries for all major desktop platforms. _(free)_
+- [Angular](https://angular.io) is a **framework** for building single-page client applications with TypeScript. _(free)_
+
+#### Libraries
+
+- [Wijmo](https://www.grapecity.com/wijmo) is a massive frontend **library** that contains everything you need. _($549/developer/year)_
+- [Lodash](https://lodash.com) is a utility **library** and is the better version of [UnderscoreJS](https://underscorejs.org). _(both are free)_
+- [RxJS](https://rxjs.dev) is a reactive **library** using observables that makes it easier to compose asynchronous code. _(free)_
+- [React](https://reactjs.org) is a **library** for building component-based interactive UIs. _(free)_
+
+#### Data Visualization
+
+- [D3.js](https://d3js.org) is a **library** for producing dynamic, interactive data visualizations. _(free)_
+- [ThreeJS](https://threejs.org) is a **WebGL engine** that can run GPU-powered games and other graphics-powered apps straight from the browser. _(free)_
+
+### Tools for Project Planning
+
+- [Miro](https://miro.com) is the online collaborative whiteboard platform that enables distributed teams to work effectively. _(free up to 3 boards)_
+- [LucidChart](https://www.lucidchart.com) is a online diagramming tool that allows visual collaboration on charts and diagrams. _(free up to 3 documents)_
+
+### Tools for Customer Feedback
+
+- [HelloNext](https://hellonext.co) lets you centralize, organize, and respond to customer feedback in one place. _(free up to 2 boards)_
+
 ### Tools for Azure
 
 - [Securing Requests in FrontDoor](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-security-headers)
@@ -35,26 +64,6 @@
 ### Tools for Java
 
 - https://spring.io/
-
-### Tools for JavaScript
-
-#### Frameworks
-
-- [RazzleJS](https://razzlejs.org) is a **framework** that abstracts all the complex configuration needed for SSR into a single dependency. _(free)_
-- [Tauri](https://tauri.app) is a **framework** with a Rust backend for building tiny, blazingly fast binaries for all major desktop platforms. _(free)_
-- [Angular](https://angular.io) is a **framework** for building single-page client applications with TypeScript. _(free)_
-
-#### Libraries
-
-- [Wijmo](https://www.grapecity.com/wijmo) is a massive frontend **library** that contains everything you need. _($549/developer/year)_
-- [Lodash](https://lodash.com) is a utility **library** and is the better version of [UnderscoreJS](https://underscorejs.org). _(both are free)_
-- [RxJS](https://rxjs.dev) is a reactive **library** using observables that makes it easier to compose asynchronous code. _(free)_
-- [React](https://reactjs.org) is a *library* for building component-based interactive UIs. _(free)_
-
-#### Data Visualization
-
-- [D3.js](https://d3js.org) is a **library** for producing dynamic, interactive data visualizations. _(free)_
-- [ThreeJS](https://threejs.org) is a **WebGL engine** that can run GPU-powered games and other graphics-powered apps straight from the browser. _(free)_
 
 ### Tools for Unity
 
