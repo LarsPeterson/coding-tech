@@ -14,6 +14,8 @@
 
 ### Tools for JavaScript
 
+- Install NodeJS using [NVM](https://github.com/coreybutler/nvm-windows)
+
 #### Frameworks
 
 - [RazzleJS](https://razzlejs.org) is a **framework** that abstracts all the complex configuration needed for SSR into a single dependency. _(free)_
