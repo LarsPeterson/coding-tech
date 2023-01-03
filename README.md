@@ -3,14 +3,11 @@
 ### Tech Trends
 
 - Edge Computing
-
 - ChatGPT
-
 - Containers
-
 - Microfrontends
-
 - Full Stack Frameworks
+- Low Code / No Code
 
 ### Tools for JavaScript
 
@@ -27,6 +24,21 @@
 - [RxJS](https://rxjs.dev) is a reactive **library** using observables that makes it easier to compose asynchronous code. _(free)_
 - [React](https://reactjs.org) is a **library** for building component-based interactive UIs. _(free)_
 
+### Tools for .NET
+
+- [ServiceStack](https://servicestack.net)
+
+- DOTNET Web APIs
+  - Part 1: [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/dotnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/)
+  - Part 2: [Open-source HTTP API packages and tools](https://devblogs.microsoft.com/dotnet/open-source-http-api-packages-and-tools/)
+  - Part 3: [Generating HTTP API clients using Visual Studio Connected Services](https://devblogs.microsoft.com/dotnet/generating-http-api-clients-using-visual-studio-connected-services/)
+  - Part 4: [App Building with Azure API Management, Functions, Power Apps, and Logic Apps](https://devblogs.microsoft.com/dotnet/app-building-with-azure-api-management-functions-power-apps-and-logic-apps/)
+
+- DOTNET References
+  - [SPA](https://learn.microsoft.com/en-us/aspnet/core/client-side/spa-services?source=recommendations&view=aspnetcore-6.0)
+  - [Worker Services](https://learn.microsoft.com/en-us/dotnet/core/extensions/workers)
+  - [WCF Web Service](https://learn.microsoft.com/en-us/dotnet/core/additional-tools/wcf-web-service-reference-guide)
+  
 #### Data Visualization
 
 - [D3.js](https://d3js.org) is a **library** for producing dynamic, interactive data visualizations. _(free)_
@@ -45,21 +57,6 @@
 
 - [Securing Requests in FrontDoor](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-security-headers)
 - [Logging and Diagnostics](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings?tabs=portal#create-in-azure-portal)
-
-
-### Tools for .NET
-
-- DOTNET Web APIs
-  - Part 1: [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/dotnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/)
-  - Part 2: [Open-source HTTP API packages and tools](https://devblogs.microsoft.com/dotnet/open-source-http-api-packages-and-tools/)
-  - Part 3: [Generating HTTP API clients using Visual Studio Connected Services](https://devblogs.microsoft.com/dotnet/generating-http-api-clients-using-visual-studio-connected-services/)
-  - Part 4: [App Building with Azure API Management, Functions, Power Apps, and Logic Apps](https://devblogs.microsoft.com/dotnet/app-building-with-azure-api-management-functions-power-apps-and-logic-apps/)
-
-- DOTNET References
-  - [SPA](https://learn.microsoft.com/en-us/aspnet/core/client-side/spa-services?source=recommendations&view=aspnetcore-6.0)
-  - [Worker Services](https://learn.microsoft.com/en-us/dotnet/core/extensions/workers)
-  - [WCF Web Service](https://learn.microsoft.com/en-us/dotnet/core/additional-tools/wcf-web-service-reference-guide)
-  
 
 ### Tools for Java
 
