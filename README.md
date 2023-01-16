@@ -9,6 +9,13 @@
 - Full Stack Frameworks
 - Low Code / No Code
 
+### Tools for UI
+
+- [Material UI](https://material.angular.io) is a UI component library used for hastening the development process. _(free)_
+- [PrimeNG](https://www.primefaces.org/primeng-v11-lts) is a collection of rich UI components for Angular. _(free)_
+- [Bootstrap](https://getbootstrap.com) is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. _(free)_
+- [Wijmo](https://www.grapecity.com/wijmo) is a massive frontend **library** that contains everything you need. _($549/developer/year)_
+
 ### Tools for JavaScript
 
 #### Frameworks
@@ -19,7 +26,6 @@
 
 #### Libraries
 
-- [Wijmo](https://www.grapecity.com/wijmo) is a massive frontend **library** that contains everything you need. _($549/developer/year)_
 - [Lodash](https://lodash.com) is a utility **library** and is the better version of [UnderscoreJS](https://underscorejs.org). _(both are free)_
 - [RxJS](https://rxjs.dev) is a reactive **library** using observables that makes it easier to compose asynchronous code. _(free)_
 - [React](https://reactjs.org) is a **library** for building component-based interactive UIs. _(free)_
